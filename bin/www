@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('knexPractice:server');
+var debug = require('debug')('knexBasics:server');
 var http = require('http');
 
 /**
